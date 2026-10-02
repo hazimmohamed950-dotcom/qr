@@ -1,0 +1,8 @@
+{
+  "name": "QR Attendance System — FSJES Kelaa des Sraghna (UCA)",
+  "description": "Production-ready zero-typing attendance system and security architecture platform for Université Cadi Ayyad (FSJES Kelaa des Sraghna, MD & MMS). Features rotating cryptographic QR codes, projector mode, zero-typing mobile validation, and comprehensive security architecture reports.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
